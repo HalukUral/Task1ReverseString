@@ -13,6 +13,6 @@ def reverseString2(reverse):
         str=i+str
     print("Reverse string second way:",str)
 
-result=input("Write string:")
+result=input("Write a string:")
 reverseString1(result)
 reverseString2(result)
